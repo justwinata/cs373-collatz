@@ -45,15 +45,21 @@ def collatz_eval (i, j) :
         r = range (i, j + 1)
     # Start max cycle length as 1
     maxcyc = 1
+    cache = {}
     # Find largest cycle
     for n in r :
         cyc = 1
-        while n != 1:
-            if n % 2 == 0:
-                n = n / 2
-            else:
-                n = (3 * n) + 1
-            cyc += 1
+        current = n
+        if n in cache:
+            cyc = cache[n]
+        else:
+            while n != 1:
+                if n % 2 == 0:
+                    n = n / 2
+                else:
+                    n = (3 * n) + 1
+                cyc += 1
+            cache[current] = cyc
         maxcyc = max(cyc, maxcyc)
     return maxcyc
 
