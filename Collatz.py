@@ -36,8 +36,8 @@ def collatz_eval (i, j) :
     assert j > 0
     assert j < 1000000
     # Check type
-#    assert isInstance (i, int)
-#    assert isInstance (j, int)
+    assert isinstance (i, int)
+    assert isinstance (j, int)
     r = range(i, j + 1)
     maxcyc = 1
     cyc = 1
