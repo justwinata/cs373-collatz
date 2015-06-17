@@ -1,0 +1,125 @@
+commit 0b0c5198a02a6f38db57a55ddf081de413a065de
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 17:47:28 2015 -0500
+
+    Added to comments, ran pydoc3 to build Collatz.html
+
+commit bd0e40b900a61b0bc7f1731475b47af4013ef715
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 17:39:56 2015 -0500
+
+    More comments
+
+commit 6765d4e97e67be1df7a867582c076cc70af7dc1f
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 17:36:22 2015 -0500
+
+    Cache implemented
+
+commit 5a8918d0101a0f65d2ff8991f35ef02d3ef91708
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 17:16:19 2015 -0500
+
+    Committed to public class repo
+
+commit 87a6a00f64dacf77d71940e5611a9bddae5f8973
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 16:28:00 2015 -0500
+
+    Accepted by Sphere, ranges fixed
+
+commit 2b434d4653c98e14cb8862f105be54dd2bd56961
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 15:10:28 2015 -0500
+
+    Fixed type check
+
+commit 6b6617212003a2811c7d7d916f586d3ceda1cca8
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 12:19:53 2015 -0500
+
+    SphereCollatz modified
+
+commit 408e3b20a813e49fa311a2429ae62680b90c5367
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 11:55:38 2015 -0500
+
+    SphereCollatz created
+
+commit 8b162a02ef94dbbbaa78cac41afa16d79351a9e7
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 11:14:19 2015 -0500
+
+    First go at Collatz debugged
+
+commit 6821e1c39ae17cc90678b12addcab2b18f594dbf
+Author: justwinata <justwinata@gmail.com>
+Date:   Wed Jun 17 11:11:18 2015 -0500
+
+    first try at collatz_eval()
+
+commit 96717fa1552798c5a24de9d5def0274d383dd711
+Author: justwinata <justwinata@gmail.com>
+Date:   Tue Jun 16 12:05:56 2015 -0500
+
+    Fixed test_read_3
+
+commit 36763e0127f21c856441c35134d348629c8966fe
+Author: justwinata <justwinata@gmail.com>
+Date:   Tue Jun 16 12:03:36 2015 -0500
+
+    Fixed test_read_3
+
+commit c97908833b48a3aac120336abcb60f7d7f12728a
+Author: justwinata <justwinata@gmail.com>
+Date:   Tue Jun 16 11:58:14 2015 -0500
+
+    Adding unit tests
+
+commit 45ff474de05911a7a5e80ddbfa59376aff83ffe0
+Author: justwinata <justwinata@gmail.com>
+Date:   Tue Jun 16 11:50:34 2015 -0500
+
+    Adding unit tests
+
+commit 8d42c3fd5aa357b6344a5bc397159477f88bf16f
+Author: justwinata <justwinata@gmail.com>
+Date:   Tue Jun 16 10:06:01 2015 -0500
+
+    Unit tests fixed
+
+commit 4c712116c3cbbb6d3811b71ee35e918350b47109
+Author: justwinata <justwinata@gmail.com>
+Date:   Sun Jun 14 09:54:58 2015 -0500
+
+    Initial make test
+
+commit cd516c3ad57bc1560c7eebaa050a053dce1d0b3b
+Author: justwinata <justwinata@gmail.com>
+Date:   Sun Jun 14 00:11:48 2015 -0500
+
+    Added sudo: required to .travis.yml
+
+commit 5f9924c3bc900547a680eda97293a2c064b9795e
+Author: justwinata <justwinata@gmail.com>
+Date:   Sun Jun 14 00:02:01 2015 -0500
+
+    Adding files
+
+commit 0f518d70451168be620315f067b6a2c0b4d44f4e
+Author: justwinata <justwinata@gmail.com>
+Date:   Sat Jun 13 23:37:46 2015 -0500
+
+    Trying to figure out branching
+
+commit be59a411b8167fd35fb85b4ec276d889192f335f
+Author: justwinata <justwinata@gmail.com>
+Date:   Sat Jun 13 23:36:40 2015 -0500
+
+    Testing branching
+
+commit 251e122e08904789f280f796528f5ce6a1862fe1
+Author: justwinata <justwinata@gmail.com>
+Date:   Sat Jun 13 22:45:34 2015 -0500
+
+    Initial commit
