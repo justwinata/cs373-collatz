@@ -28,6 +28,14 @@ def collatz_eval (i, j) :
     i the beginning of the range, inclusive
     j the end       of the range, inclusive
     return the max cycle length of the range [i, j]
+    Check for valid input range and type
+    Check for input order, rearrange as necessary
+    Initialize max cycle length as 1 and empty cache
+    Begin loop
+        Check cache
+        Use if available, else calculate cycle length
+        Store calculated cycle length if applicable
+        Take max of calculated cycle lengths
     """
     # <your code>
     # Check for valid input range
