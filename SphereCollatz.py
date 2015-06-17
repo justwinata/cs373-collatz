@@ -44,9 +44,14 @@ def collatz_eval (i, j) :
     # Check type
     assert isinstance (i, int)
     assert isinstance (j, int)
-    r = range(i, j + 1)
+    # Check which input is greater, create range to iterate
+    if (i > j):
+        r = range (j, i + 1)
+    else:
+        r = range (i, j + 1)
+    # Start max cycle length as 1
     maxcyc = 1
-    cyc = 1
+    # Find largest cycle
     for n in r :
         cyc = 1
         while n != 1:

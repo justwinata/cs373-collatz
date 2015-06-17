@@ -53,4 +53,3 @@ TestCollatz.out: TestCollatz.py
 	coverage3 run    --branch TestCollatz.py >  TestCollatz.out 2>&1
 	coverage3 report -m                      >> TestCollatz.out
 	cat TestCollatz.out
-
