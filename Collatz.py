@@ -39,6 +39,8 @@ def collatz_eval (i, j) :
 #    assert isInstance (i, int)
 #    assert isInstance (j, int)
     r = range(i, j + 1)
+    maxcyc = 1
+    cyc = 1
     for n in r :
         cyc = 1
         while n != 1:
